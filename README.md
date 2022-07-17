@@ -1,3 +1,4 @@
 # Random-Color-Generator
 Random color generator using vanilla js
-![images](color-img.jpg)
+
+<img src="/images/color-img.jpg">
